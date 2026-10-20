@@ -24,6 +24,13 @@ Made by a NEET. If you find this app useful, please consider supporting me — o
 
 ## Screenshots:
 ![mainactivty0](screenshots/main_activity0.jpg)
+![mainactivty1](screenshots/main_activity1.jpg)
+![mainactivty2](screenshots/main_activity2.jpg)
+![overlay0](screenshots/overlay_container0.jpg)
+![overlay1](screenshots/overlay_container1.jpg)
+![overlay2](screenshots/overlay_container2.jpg)
+![settings](screenshots/settings.jpg)
+![installed](screenshots/installed_size.jpg)
 
 ---
 
