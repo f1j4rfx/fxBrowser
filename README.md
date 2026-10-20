@@ -22,6 +22,11 @@ Made by a NEET. If you find this app useful, please consider supporting me — o
 
 ---
 
+## Screenshots:
+![mainactivty0](screenshots/main_activity0.jpg)
+
+---
+
 ## What is fxBrowser?
 
 It's a browser that fits in less space than a single photo. Every feature 
