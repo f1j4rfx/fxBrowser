@@ -8,7 +8,7 @@ Everything is local.
 
 **~490KB APK size** · Android 10+ (API 29+).
 
-> Because less **~~code~~**❌ — **less computation** is always better ✅.
+> "Because less **~~code~~**❌ — **less computation** is always better ✅."
 
 Made by a NEET. If you find this app useful, please consider supporting me — or just give me a JOB 😭️:
 
