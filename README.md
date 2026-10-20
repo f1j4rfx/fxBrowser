@@ -12,7 +12,7 @@ Everything is local.
 
 Made by a NEET. If you find this app useful, please consider supporting me — or just give me a JOB 😭️:
 
-[ko-fi.com/f1j4r](https://ko-fi.com/f1j4r)
+☕️ [ko-fi.com/f1j4r](https://ko-fi.com/f1j4r)
 
 ---
 
