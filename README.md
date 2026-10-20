@@ -23,8 +23,10 @@ Made by a NEET. If you find this app useful, please consider supporting me — o
 ---
 
 ## Screenshots:
-![mainactivty0](screenshots/main_activity0.jpg) ![mainactivty1](screenshots/main_activity1.jpg) ![mainactivty2](screenshots/main_activity2.jpg) ![overlay0](screenshots/overlay_container0.jpg)
-![overlay1](screenshots/overlay_container1.jpg) ![overlay2](screenshots/overlay_container2.jpg) ![settings](screenshots/settings.jpg) ![installed](screenshots/installed_size.jpg)
+<img src="screenshots/main_activity0.jpg" width="300" alt="main_activity0"> <img src="screenshots/main_activity1.jpg" width="300" alt="main_activity1">
+<img src="screenshots/main_activity2.jpg" width="300" alt="main_activity2"> <img src="screenshots/overlay_container0.jpg" width="300" alt="overlay_container0">
+<img src="screenshots/overlay_container1.jpg" width="300" alt="overlay_container1"> <img src="screenshots/overlay_container2.jpg" width="300" alt="overlay_container2">
+<img src="screenshots/settings.jpg" width="300" alt="settings"> <img src="screenshots/installed_size.jpg" width="300" alt="installed_size">
 
 ---
 
