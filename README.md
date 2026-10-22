@@ -6,7 +6,7 @@ Everything is local.
 
 > "Less bloat. More control. Exactly what a browser should be."
 
-**~490KB APK size** · Android 10+ (API 29+).
+**~491KB APK size** · Android 10+ (API 29+).
 
 > "Because less **~~code~~**❌ — **less computation** is always better ✅."
 
