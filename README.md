@@ -6,11 +6,11 @@ Everything is local.
 
 > "Less bloat. More control. Exactly what a browser should be."
 
-**~492KB APK size** · Android 10+ (API 29+).
+**~501KB APK size** · Android 10+ (API 29+).
 
 > "Because less **~~code~~**❌ — **less computation** is always better ✅."
 
-Made by a NEET. If you find this app useful, please consider supporting me — or just give me a JOB 😭️:
+Made by a NEET. If you find this app useful, please consider supporting me 😭️:
 
 ☕️ [ko-fi.com/f1j4r](https://ko-fi.com/f1j4r)
 
